@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:/flutter/lzoncekim72/flutter_1"
+		},
+		{
+			"path": "../../../../xampp/htdocs/bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap"
+	}
+}
