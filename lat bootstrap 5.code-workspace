@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "bootstrap"
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap",
+		"liveServer.settings.port": 5501
 	}
 }
