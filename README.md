@@ -692,6 +692,8 @@ sorce code
     </html>
     
     halaman contact us
+    ![image](https://user-images.githubusercontent.com/92699467/216760323-9625ff08-d112-4fa8-be30-07660e686b84.png)
+
     ![image](https://user-images.githubusercontent.com/92699467/216758779-c1c4ad0c-4ef8-44ee-97fb-0a15d1a33da0.png)
  
  sourcecode contact us
@@ -814,5 +816,14 @@ sorce code
 
 </html>
 
+
+	
+	footer
+	![image](https://user-images.githubusercontent.com/92699467/216760409-5d307ba6-4a6e-4da6-936b-ba64f63740bd.png)
+
+	
+	![image](https://user-images.githubusercontent.com/92699467/216760377-27b9c68a-2f4d-4a70-8f0e-9f2ab2756c80.png)
+
+	![image](https://user-images.githubusercontent.com/92699467/216760352-cf1487f4-72c3-440d-ae0f-9ff26e6bc79e.png)
 
 
